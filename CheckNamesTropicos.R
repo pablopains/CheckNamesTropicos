@@ -1,5 +1,5 @@
 ####################################################################################################
-#                                     Karst Vegetation Research Group                              #
+#                                     Karst Flora Research Group                                   #
 #                                                                                                  #
 # Checks the scientific name of the plants according to tropicos.org                               #
 #                                                                                                  #
@@ -192,7 +192,6 @@ check.names.tropicos <- function(scientificnamewithoutauthors='', scientificname
     }
   }
   
-  #tropicos.name <- nomes.busca.tp1
   return(nomes.busca.tp1)
 }
 
