@@ -1,3 +1,10 @@
+####################################################################################################
+#                                     Karst Flora Research Group                                   #
+#                                                                                                  #
+#              Checks the scientific name of the plants according to tropicos.org                  #
+#                                                                                                  #
+####################################################################################################
+
 # Checks the scientific name of the plants according to tropicos.org
 
 # instructoins 
